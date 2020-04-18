@@ -6,7 +6,7 @@ SELECT
 UNION
 SELECT
   '2017-02-01' AS first_day,
-  '2017-02-28' AS last_day
+  '2017-02-28' AS last_day 
 UNION
 SELECT
   '2017-03-01' AS first_day,
